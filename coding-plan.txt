@@ -1,8 +1,9 @@
 coding plan
 *make game
-  -turn-base style
-  -open world adventure type
+  -2D style
+  -RPG style
 *finish tutorial
 *make backend
   -using laravel
 *colab with other people
+  -with satria
