@@ -1,5 +1,8 @@
 coding plan
 *make game
+  -turn-base style
+  -open world adventure type
 *finish tutorial
 *make backend
+  -using laravel
 *colab with other people
