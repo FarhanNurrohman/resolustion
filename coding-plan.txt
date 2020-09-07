@@ -4,5 +4,6 @@ coding plan
   -RPG style
 *finish tutorial
 *make backend
+  -using laravel
 *colab with other people
   -with satria
