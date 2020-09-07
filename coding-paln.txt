@@ -1,0 +1,5 @@
+coding plan
+*make game
+*finish tutorial
+*make backend
+*colab with other people
