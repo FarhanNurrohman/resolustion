@@ -1,5 +1,8 @@
 coding plan
 *make game
+  -2D style
+  -RPG style
 *finish tutorial
 *make backend
 *colab with other people
+  -with satria
